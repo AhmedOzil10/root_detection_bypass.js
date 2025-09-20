@@ -1,0 +1,2 @@
+# root_detection_bypass.js
+root_detection_bypass
